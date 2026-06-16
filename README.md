@@ -1,3 +1,5 @@
+![Banner](https://carltonjohnson.com/images/github-banner.png)
+
 # Hi, I'm Carlton 👋
 
 I'm a Cloud & Technology Professional with experience delivering digital
